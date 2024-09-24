@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Test Site Homepage"
-permalink: /test-site-1/ 
+permalink: /
 ---
 
 This is the homepage for my test site for SI 676. 
