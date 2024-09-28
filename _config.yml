@@ -23,9 +23,9 @@ email: anderkry@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is my first site for SI 676. Kinda fun, kinda frustrating.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://krys-kross.github.io/test-site-1/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username: krys-kross
 
 # Build settings
 theme: minima
